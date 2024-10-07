@@ -29,6 +29,6 @@ int main() {
         cout << "Passed due to both subjects" << endl;
     }
 
-    return 0;
+    return 0;hjlkjlkskdf;lsa
 }
 
